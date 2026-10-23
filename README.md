@@ -1,9 +1,14 @@
-# Python Movie Ticket Booking System
+# NOIR / CINEMA — Champagne Edition
 
-A small cinema reservation application built with **Python**, **object-oriented programming** and **nested lists**. It began as my terminal-based coding project and has since been expanded into a graphical app with stronger input validation and unit tests. The original terminal implementation is preserved in [`legacy/original_movie_booking.py`](legacy/original_movie_booking.py).
+A **premium dark cinema ticket-booking desktop app**, built with **Python**, **Tkinter** and **object-oriented programming**. Its charcoal-black interface, subtle gradient and champagne-gold details bring a more polished theatre-inspired look to a working seat-reservation demo.
+
+The project began as my original Python terminal-based booking system. I have since expanded it with a graphical seating map, improved input validation, booking tests, and this redesigned interface. The original terminal implementation is retained in [`legacy/original_movie_booking.py`](legacy/original_movie_booking.py).
+
+> **Portfolio demo:** This is not a real ticketing service. Movie titles and prices are illustrative; all bookings are stored in memory and reset when the app closes.
 
 ## Features
 
+- **NOIR Champagne Edition** theatre-inspired interface with subtle gold accents.
 - Choose from three demonstration films: **Movie A ($10)**, **Movie B ($12)**, **Movie C ($8)**.
 - View a separate **5 × 5 seating grid** for each film.
 - Select one or more seats and see the total cost before confirming.
@@ -12,11 +17,13 @@ A small cinema reservation application built with **Python**, **object-oriented 
 - Keep different movies' availability independent.
 - Use the Tkinter graphical interface or run a terminal-based version.
 
-These are sample movie titles and prices, retained from my original project. All bookings are **in memory** and reset when the program closes; no payments or real cinema reservations take place.
+These are sample movie titles and prices retained from my original project. All reservations remain **in memory**; there are no payments or real cinema bookings.
 
-## Screenshot
+## Champagne Edition preview
 
-A screenshot from the application running on macOS will be added after final compatibility testing.
+The latest version has a premium charcoal and champagne-gold theme, including a subtle gradient header, an illustrated cinema screen, selectable gold seats, and a dedicated booking summary. A screenshot captured from the running macOS app will be added after the final Mac visual check.
+
+**Theme:** near-black charcoal · champagne-gold highlights · restrained emerald accents · clear booked / available / selected states.
 
 ## Technologies and concepts
 
