@@ -16,9 +16,7 @@ These are sample movie titles and prices, retained from my original project. All
 
 ## Screenshot
 
-![Movie booking application showing seat selections and a booking summary](screenshots/movie_booking_demo.png)
-
-*Screenshot from a demonstration run of the Tkinter application.*
+A screenshot from the application running on macOS will be added after final compatibility testing.
 
 ## Technologies and concepts
 
@@ -33,6 +31,16 @@ These are sample movie titles and prices, retained from my original project. All
 Download and extract this repository. In Terminal, change into the extracted folder, then run:
 
 ```bash
+python3 movie_ticket_booking.py
+```
+
+**Alternatively, to download just the two Python files directly to your Mac:**
+
+```bash
+mkdir -p ~/Downloads/Python-Movie-Ticket-Booking
+cd ~/Downloads/Python-Movie-Ticket-Booking
+curl -fLO https://raw.githubusercontent.com/k1ngXravioli/Python-Movie-Ticket-Booking/main/booking_core.py
+curl -fLO https://raw.githubusercontent.com/k1ngXravioli/Python-Movie-Ticket-Booking/main/movie_ticket_booking.py
 python3 movie_ticket_booking.py
 ```
 
