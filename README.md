@@ -21,7 +21,9 @@ These are sample movie titles and prices retained from my original project. All 
 
 ## Champagne Edition preview
 
-The latest version has a premium charcoal and champagne-gold theme, including a subtle gradient header, an illustrated cinema screen, selectable gold seats, and a dedicated booking summary. A screenshot captured from the running macOS app will be added after the final Mac visual check.
+![NOIR / CINEMA — Champagne Edition running on macOS, with a dark cinema interface, champagne-gold selected seats and a booking summary](Screenshot%202026-10-23%20at%2019.40.20.png)
+
+*The working NOIR / CINEMA Champagne Edition: cinema-inspired styling, selectable seats, and an updated booking summary.*
 
 **Theme:** near-black charcoal · champagne-gold highlights · restrained emerald accents · clear booked / available / selected states.
 
